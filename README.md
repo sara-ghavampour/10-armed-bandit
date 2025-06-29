@@ -3,18 +3,9 @@
 ----
 
 
-- Homeworks
-_____________________________________________________________
-scenario_name: Stationary
-agent_name: Optimistic Greedy
-final_reward: 1.5643571473005342
-final_optimal_pct: 87.7
-final_100_avg: 1.5140190740615131
-_____________________________________________________________
-scenario_name: Stationary
-agent_name: Gradient Bandit (α=0.1)
-final_reward: 1.5643571473005342
-final_optimal_pct: 87.7
-final_100_avg: 1.5140190740615131
-_____________________________________________________________
-scenario_name: Drift
+## Libraries: 
+
+-----
+## Results: 
+![image](https://github.com/user-attachments/assets/1e41e653-e847-4462-a407-bb15b6c271f6)
+
