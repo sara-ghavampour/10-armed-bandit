@@ -4,9 +4,17 @@
 
 
 - Homeworks
-1. [Homework 0](homeworks/0): ROS2 Installation
-2. [Homework 1](homeworks/1): Introduction to ROS2 concepts.
-3. [Homework 2](homeworks/2): Using ROS2 actions in a subscriber/publisher package.
-4. [Homework 3](homeworks/3): Creating YAML launch files
-5. [Homework 5](homeworks/5): Mobile robot navigation using Gazebo.
-6. [Homework 6](homeworks/6): Utilizing Gazebo DiffDrive plugin.
+_____________________________________________________________
+scenario_name: Stationary
+agent_name: Optimistic Greedy
+final_reward: 1.5643571473005342
+final_optimal_pct: 87.7
+final_100_avg: 1.5140190740615131
+_____________________________________________________________
+scenario_name: Stationary
+agent_name: Gradient Bandit (α=0.1)
+final_reward: 1.5643571473005342
+final_optimal_pct: 87.7
+final_100_avg: 1.5140190740615131
+_____________________________________________________________
+scenario_name: Drift
