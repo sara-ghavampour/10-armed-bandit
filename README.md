@@ -2,5 +2,5 @@
 
 ----
 
-Here in the link to the code in google colab as well for reproducing the results: https://colab.research.google.com/drive/11dQVTMlDKnFyUfQfGLHHHV4pnjG-QjtC?usp=sharing . It takes about 15 minutes to run all the cells.
+Here in the link to the code in google colab as well for reproducing the results: https://colab.research.google.com/drive/11dQVTMlDKnFyUfQfGLHHHV4pnjG-QjtC?usp=sharing . It takes about 25 minutes to run all the cells.
 
